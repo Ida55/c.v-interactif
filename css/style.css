@@ -1,0 +1,305 @@
+@import url('https://fonts.googleapis.com/css?family=Aclonica&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Belleza&display=swap');
+
+h1 {
+    font-family: 'Poiret One', cursive; 
+    font-weight: bold;
+    font-size: 80px;
+}
+
+h2 {
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.intro, li {
+    font-family: 'Belleza', sans-serif;
+}
+
+.header, .footer {
+    position: relative;
+    padding-top: 10px;
+    margin-top: 90px;
+    background-color: #d1a758; 
+    border-left: 4px solid black;
+    border-right: 4px solid black;  
+
+}
+
+.header {
+    bottom: 90px;
+    padding-bottom: 30px;
+    border-bottom: 4px solid black;
+
+}
+
+.logo, .title-holder, .name, .job-title {
+    text-align: center;
+}
+
+.pic1, .pic2, .pic3, .pic4, .pic5, .pic6, .pic7, .pic8, .pic9, .pic10, .pic11 {
+    position: relative;
+    width: 90px;
+    height: 90px;
+    bottom: 20px;
+    left: 250px;
+}
+
+.pro {
+    position: relative;
+    right: 30px;
+}
+
+.skills {
+    position: relative;
+    right: 60px;
+}
+
+.section-left1 {
+    position: absolute;
+    left: 150px; 
+    top: 250px;
+    /* border-right: 3px solid black; */
+}
+
+.jobA, .jobB, .jobC, .jobD, .jobE, .jobF, .jobG, .jobH, .jobI, .jobJ, .jobK  {
+    position: relative;
+    list-style-type: none;
+}
+
+.yearsA, .yearsB, .yearsC, .yearsD, .yearsE, .yearsF, .yearsG, .yearsH, .yearsI, .yearsJ, .yearsK {
+    position: absolute;
+}
+
+.descA, .descB, .descC, .descD, .descE, .descF, .descG, .descH, .descI, .descJ, .descK {
+    position: absolute; 
+}
+
+.yearsA {
+    right: 550px;
+    top: 20px;
+}
+
+.descA {
+    left: 10px;
+    top: 20px;
+}
+
+.yearsB {
+    right: 535px;
+    top: 20px;
+}
+
+.descB {
+    left: 15px;
+    top: 20px;
+}
+
+.yearsC {
+    right: 535px;
+    top: 20px;
+}
+
+.descC {
+    left: 15px;
+    top: 20px;
+}
+
+.yearsD {
+    right: 550px;
+    top: 20px;
+}
+
+.descD {
+    left: 5px;
+    top: 20px;
+}
+
+.yearsE {
+    right: 550px;
+    top: 20px;
+}
+
+.descE {
+    left: 20px;
+    top: 20px;
+}
+
+.yearsF {
+    right: 550px;
+    top: 20px;
+}
+
+.descF {
+    left: 5px;
+    top: 20px;
+}
+
+.yearsG {
+    right: 550px;
+    top: 20px;
+}
+
+.descG {
+    left: 5px;
+    top: 20px;
+}
+
+.yearsH {
+    right: 550px;
+    top: 20px;
+}
+
+.descH {
+    left: 5px;
+    top: 20px;
+}
+
+.yearsI {
+    right: 535px;
+    top: 20px;
+}
+
+.descI {
+    left: -15px;
+    top: 20px;
+}
+
+.yearsJ {
+    right: 535px;
+    top: 20px;
+}
+
+.descJ {
+    left: 15px;
+    top: 20px;
+}
+
+.yearsK {
+    right: 535px;
+    top: 20px;
+}
+
+.descK {
+    left: 15px;
+    top: 20px;
+}
+
+.section-left1 {
+    position: absolute;
+    left: 150px;
+    top: 300px;
+}
+
+.section-right {
+    position: absolute;
+    right: 150px;
+    top: 300px;
+}
+
+.proSkills, .sk {
+    list-style-type: none;
+    margin-top: 30px;
+}
+
+
+.proSkills {
+    margin-top: 30px;
+}
+
+.section-right2 {
+    position: absolute;
+    right: 50px;
+    top: 1500px;
+}
+
+.sk1, .sk2, .sk3, .sk4, .sk5, .sk6 {
+    display: inline-block;
+    position: relative;
+    margin: 0px 35px;
+    border-radius: 5px;
+    background-color: rgb(226, 181, 57);
+    width: 210px;
+    height: 20px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 30px;
+}
+
+.sk1 {
+    left: -130px;
+}
+
+.sk2 {
+    right: 90px;
+}
+
+.sk3 {
+    left: -130px;
+
+}
+
+.sk4 {
+    right: 90px;
+}
+
+.section-left2 {
+    position: absolute;
+    left: 150px;
+    top: 1700px;
+}
+
+.aboutMe {
+    position: relative;
+    left: 450px;
+} 
+
+.aboutMe1, .aboutMe2 {
+    list-style-type: none; 
+}
+
+.footer {
+    top: 1650px;
+    padding-bottom: 100px;
+    border-top: 4px solid black;  
+}
+
+.pct, .contp, .contacts {
+    position: relative;
+}
+
+.pct {
+    bottom: 30px;
+    text-align: center;
+}
+
+.contp1, .contp2, .contp3, .contp4 {
+    width: 90px;
+    height: 90px;
+}
+
+.contp1 {
+    position: relative;
+    left: 40px;
+}
+
+.contp3 {
+    position: relative;
+    left: 20px;
+}
+
+.contp4 {
+    position: relative;
+    left: 40px;
+}
+
+.contacts {
+    display: inline-block;
+    font-family: 'Belleza', sans-serif;
+    margin: 0px 112px;
+}
+
