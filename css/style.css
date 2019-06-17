@@ -227,7 +227,9 @@ h2 {
     height: 20px;
     text-align: center;
     padding-top: 15px;
+    padding-bottom: 15px;
     margin-top: 30px;
+    bottom: 150px;
 }
 
 .sk1 {
@@ -240,10 +242,17 @@ h2 {
 
 .sk3 {
     left: -130px;
-
 }
 
 .sk4 {
+    right: 90px;
+}
+
+.sk5 {
+    left: -130px;
+}
+
+.sk6 {
     right: 90px;
 }
 
