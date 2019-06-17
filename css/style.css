@@ -222,7 +222,6 @@ h2 {
     position: relative;
     margin: 0px 35px;
     border-radius: 5px;
-    background-color: rgb(226, 181, 57);
     width: 210px;
     height: 20px;
     text-align: center;
@@ -232,27 +231,22 @@ h2 {
     bottom: 150px;
 }
 
-.sk1 {
+
+.sk1, .sk2 {
+ background-color: rgb(231, 183, 120);
+}
+
+
+.sk3, .sk4, .sk5, .sk6 {
+    background-color: rgb(241, 200, 87);
+    
+}
+
+.sk1, .sk3, .sk5 {
     left: -130px;
 }
 
-.sk2 {
-    right: 90px;
-}
-
-.sk3 {
-    left: -130px;
-}
-
-.sk4 {
-    right: 90px;
-}
-
-.sk5 {
-    left: -130px;
-}
-
-.sk6 {
+.sk2, .sk4, .sk6 {
     right: 90px;
 }
 
